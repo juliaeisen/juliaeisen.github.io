@@ -1,0 +1,39 @@
+img {
+    max-width: 10%;
+    height: auto;
+}
+
+body {
+    font-size: 18 px;
+    font-family: 'Merriweather', serif;
+    color: #2b2c2c;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700;
+    color: #528aae;
+}
+
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.75em;
+}
+
+h4 {
+    font-size: 1.5em;
+}
+
+h5 {
+    font-size: 1.25em;
+}
+
+footer {
+    font-size: .75em;
+    font-family: 'Noto Sans', sans-serif;
+}
