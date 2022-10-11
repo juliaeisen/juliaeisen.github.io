@@ -1,0 +1,22 @@
+img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+body {
+    background-color: #ffe4c4;
+    font-family:'Courier New', Courier, monospace;
+    color: #000000;
+    font: size 18px;
+}
+
+h1{
+    font-weight: 800;
+    font-size: 52x;
+}
+
+footer{
+    font-size: 12px;
+}
