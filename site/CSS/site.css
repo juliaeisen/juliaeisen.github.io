@@ -1,0 +1,22 @@
+body {
+    background-color: #C4A484;
+    font-family: 'EB Garamond', serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 4em;
+}
+
+img {
+    width: 385px;
+    height: 515px;
+    border-radius: 50%;
+}
+
+div {
+    padding: 10px;
+}
