@@ -1,0 +1,80 @@
+body {
+    background-color: #F4F5F8;
+    font-family: 'Literata', serif;
+    font-size: 15px;
+    color: #152128;
+}
+
+footer {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
+}
+
+header {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+}
+
+nav {
+    font-size: 2em;
+    font-weight: 600;
+    text-align: center;
+}
+
+a {
+    color: #152128;
+    text-decoration: none;
+}
+
+
+.graphic-a {
+    font-family: 'Work Sans', sans-serif;
+    background-color: #EAEAEA;
+    text-align: center;
+}
+
+
+.graphic-b {
+    font-family: 'Work Sans', sans-serif;
+    background-color: #EAEAEA;
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 1.5em;
+    font-weight: 300;
+    padding-bottom: 5px;
+}
+
+h2 {
+    font-size: 1em;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+
+.headline {
+    text-align: center;
+}
+
+.byline {
+    font-size: 0.9em;
+    font-weight: 300;
+}
+
+.timeless {
+    letter-spacing: .3em;
+    display: block;
+    font-weight: 600;
+}
+
+.spotify{
+    color: #1DB954;
+}
+
