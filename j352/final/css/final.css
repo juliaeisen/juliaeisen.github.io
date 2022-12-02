@@ -1,0 +1,12 @@
+body {
+    background-color: #151712;
+    font-family: 'PT Serif', serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #fff8eb;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 3em;
+}
