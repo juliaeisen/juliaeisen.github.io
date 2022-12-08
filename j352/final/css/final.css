@@ -27,8 +27,9 @@ h1 {
 
 .podcast{
     font-size: 20px;
-    color: #fff8eb;
+    color: #151712;
     padding: 0 4em 0 4em;
+    background-color:#fff8eb;
 }
 
 .graphics{
@@ -37,12 +38,12 @@ h1 {
 }
 
 a{
-    color: #fff8eb;
+    color: #6d5a72;
     padding: 0 0.25em 0 0.25em;
 }
 
 a:hover {
-    color: #6d5a72;
+    color:  #e4d5e8;
 
 }
 
