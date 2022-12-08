@@ -6,7 +6,59 @@ body {
     color: #fff8eb;
 }
 
+p{
+    text-align: justify;
+}
 h1 {
+    font-family: 'Fira Sans', sans-serif;
     font-weight: 800;
     font-size: 3em;
+}
+
+.byline{
+    font-size: 14px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.photo{
+    font-size: 12px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.podcast{
+    font-size: 20px;
+    color: #fff8eb;
+    padding: 0 4em 0 4em;
+}
+
+.graphics{
+    font-size: 12px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+a{
+    color: #fff8eb;
+    padding: 0 0.25em 0 0.25em;
+}
+
+a:hover {
+    color: #6d5a72;
+
+}
+
+div {
+    padding: 10px;
+}
+
+@media (max-width: 775px) {
+    h1 {
+        font-size: 3em;
+    }
+}
+
+@media (max-width: 450px) {
+    h1 {
+        font-size: 2.3em;
+    }
+
 }
